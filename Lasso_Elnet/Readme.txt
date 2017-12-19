@@ -1,0 +1,1 @@
+To run comparison with wtrue, please run demo.m
