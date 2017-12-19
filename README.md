@@ -1,5 +1,5 @@
-# DRD
+# DRD code for Wu et.al, 2014
 
-Run test_1D.m for a 1D simulation
+Run test_1D.m for a 1D simulation.
 
-Run test_fmri.m for a classification task with a fMRI dataset from Haxby 2001
+Run test_fmri.m for a classification task with a fMRI dataset from Haxby 2001.
